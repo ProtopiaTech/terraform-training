@@ -1,0 +1,5 @@
+subscription_id = "00000000-0000-0000-0000-000000000000"
+tenant_domain   = "twoja-domena.onmicrosoft.com"
+location        = "westeurope"
+group_name      = "sec-training-trainees"
+trainee_count   = 5
